@@ -5,6 +5,7 @@ import EditorPage from "./pages/EditorPage";
 import { Toaster } from "react-hot-toast";
 
 function App() {
+  // console.log(import.meta.env.VITE_APP_BACKEND_URL);
   return (
     <>
       <div>
